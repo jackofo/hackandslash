@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aee9c35122abd23458ddb18edd496d6a, type: 3}
+  m_Name: ItemDatabase
+  m_EditorClassIdentifier: 
+  items:
+  - {fileID: 114785988592075858, guid: ea3a278b79ae17c48950277ea586e832, type: 2}
+  rarities:
+  - {fileID: 11400000, guid: 922c0963b02f59a4a9a6625ae2d5e9bd, type: 2}
+  categories:
+  - {fileID: 11400000, guid: 55b079f12b286b34098c25b4c7829d4e, type: 2}
+  statDefinitions: []
+  equipmentTypes: []
+  craftingCategories: []
+  currencies:
+  - {fileID: 11400000, guid: e5a79705ae0d0f14b919efcc9ff44857, type: 2}
+  itemRarities: []
+  itemCategories: []
+  itemProperties: []
+  equipTypes: []
+  inventoryCraftingCategories: []
+  inventoryCurrencies: []

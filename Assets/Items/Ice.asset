@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 969f486cbeb8bcb4fb167df5779e886e, type: 3}
+  m_Name: Ice
+  m_EditorClassIdentifier: 
+  ItemName: Ice
+  icon: {fileID: 21300000, guid: 0d1dc8ade7e63d14da6ea8a209621906, type: 3}
+  prefab: {fileID: 1831941212344650, guid: 53c26e0973aaf6740ac784ddf8a23823, type: 2}
+  damage: 5
+  speed: 750

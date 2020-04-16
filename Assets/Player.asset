@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d1ebb4f93a9e0cb468f291ce73d77a15, type: 3}
+  m_Name: Player
+  m_EditorClassIdentifier: 
+  hitPoints: 25
+  magicPoints: 10
+  strength: 1
+  agility: 1
+  inteligence: 1
+  willPower: 1
